@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Planetary Defense: How Humanity is Trying to Avoid The Fate of The Dinosaurs"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: Berkeley Scientific Journal
+permalink: /publication/bsj-blog-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2026-01-01
 venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://drive.google.com/file/d/1GKPBwqsLoBexCIbwRjSXCDeZf6_wZzOI/view?usp=sharing'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Carreon, Deacon. (2026). Planetary Defense: How Humanity is Trying to Avoid The Fate of The Dinosaurs. Berkeley Scientific Journal, The Hypothesis (Research & Blogs Department)'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+The history of asteroid impacts both within and before recorded history, and the importance of planetary defense. This defense is being achieved with missions that work to enhance planetary defense, such as NASA’s and the ESA’s asteroid trackers, and the 2022 NASA DART Mission. However, the asteroid 2024 YR4 could impact the Moon on 12/22/2032 with a 4% chance, but it is currently out of our view until 2028.
