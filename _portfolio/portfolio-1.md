@@ -1,6 +1,6 @@
 ---
 title: "Planetary Defense: How Humanity is Trying to Avoid The Fate of The Dinosaurs"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/DART.png'>"
 collection: portfolio
 ---
 
