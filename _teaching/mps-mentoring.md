@@ -4,7 +4,6 @@ collection: teaching
 type: "Mentoring"
 permalink: /teaching/mps-mentoring
 venue: "MPS Scholars"
-date: 2025-present
 location: "UC Berkeley"
 ---
 
