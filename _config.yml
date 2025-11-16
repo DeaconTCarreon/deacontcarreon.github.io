@@ -31,9 +31,7 @@ author:
   employer         : "University of California, Berkeley"
   uri              : # URL
   email            : "deacon_carreon@berkeley.edu" 
-  linkedin         : "deacon-carreon"
   github           : "DeaconTCarreon"
-  orcid            : "https://orcid.org/0009-0003-3973-3439"
 
   # Academic websites
   academia         : # URL
@@ -66,6 +64,8 @@ author:
   lastfm           : # Username
   mastodon         : # URL
   medium           : # URL
+  linkedin         : "deacon-carreon"
+  orcid            : "https://orcid.org/0009-0003-3973-3439"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
