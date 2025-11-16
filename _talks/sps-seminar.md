@@ -3,7 +3,7 @@ title: "The Past, Present, and Future of Antimatter"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-02-06-sps-seminar
-venue: "UC Berkeley Society For Physics Students"
+venue: "UC Berkeley Society of Physics Students"
 date: 2025-02-06
 location: "Berkeley, CA, USA"
 ---
