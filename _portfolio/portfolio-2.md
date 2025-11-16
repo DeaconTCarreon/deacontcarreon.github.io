@@ -1,6 +1,6 @@
 ---
 title: "Planetary Defense II: Protecting Space and Earth from Our Own Satellites"
-excerpt: "The overabundance of satellites in space has onsequences to be known when they burn up in the atmosphere. (Image Credit: ESA)<br/><img src='/images/ATV-1 Reentry.png'>"
+excerpt: "The overabundance of satellites in space has unknown consequences when they burn up in the atmosphere. (Image Credit: ESA)<br/><img src='/images/ATV-1 Reentry.png'>"
 collection: portfolio
 ---
 
