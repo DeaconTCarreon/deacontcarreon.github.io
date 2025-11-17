@@ -10,3 +10,6 @@ customjs:
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
