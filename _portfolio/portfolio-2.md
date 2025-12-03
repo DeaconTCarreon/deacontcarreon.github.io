@@ -4,6 +4,6 @@ excerpt: "The overabundance of satellites in space has unknown consequences when
 collection: portfolio
 ---
 
-[Download Blog](https://drive.google.com/file/d/1WhV68lK6BtFs9YV0TcJKwdVSZQMOZW6P/view?usp=sharing)
+[Download Blog](https://deacontcarreon.github.io/files/Deacon Carreon - Planetary Defense II.pdf)
 
 There are several potential problems that can arise with the growing overabundance of satellite networks around Earth. However the impacts on the atmosphere from satellites completely burning up, and releasing their metals and creating alumina and aerosols, is unknown. These research problems should be solved before they become increasingly apparent from the increasing influx of satellites.

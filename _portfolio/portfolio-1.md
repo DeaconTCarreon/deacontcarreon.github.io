@@ -4,7 +4,7 @@ excerpt: "Despite the close calls, humanity has slowly been working to mitigate 
 collection: portfolio
 ---
 
-[Download Blog](https://drive.google.com/file/d/1GKPBwqsLoBexCIbwRjSXCDeZf6_wZzOI/view?usp=sharing)
+[Download Blog](https://deacontcarreon.github.io/files/Deacon Carreon - Planetary Defense I.pdf)
 <!-- [Download Blog](href="files/Deacon Carreon - Planetary Defense I.pdf") -->
 
 <!-- [Download Blog](<a href="files/Deacon Carreon - Planetary Defense I.pdf" class="image fit"><img src="images/DART.png" alt=""></a>) -->
