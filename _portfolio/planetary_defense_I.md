@@ -2,6 +2,7 @@
 title: "Planetary Defense I: How Humanity is Trying to Avoid The Fate of The Dinosaurs"
 excerpt: "BSJ Blog #1: Despite the close calls, humanity has slowly been working to mitigate the threat of an asteroid impact. (Image Credit: NASA)<br/><img src='/images/DART.png'>"
 collection: portfolio
+permalink: \portfolio\planetary_defense_I
 ---
 
 [Download Blog](https://deacontcarreon.github.io/files/Planetary Defense I.pdf)
