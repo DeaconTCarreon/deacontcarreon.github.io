@@ -46,11 +46,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # 
   inspire-hep      : # URL
   impactstory      : # URL
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
@@ -75,7 +75,7 @@ author:
   mastodon         : # URL
   medium           : # URL
   linkedin         : "deacon-carreon"
-  orcid            : "https://orcid.org/0009-0003-3973-3439"
+  orcid            : #
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -237,7 +237,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -292,10 +292,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
