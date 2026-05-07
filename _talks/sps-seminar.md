@@ -1,5 +1,6 @@
 ---
 title: "The Past, Present, and Future of Antimatter"
+excerpt: "<br/><img src='/files/SPS_Seminar.JPG'>"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-02-06-sps-seminar

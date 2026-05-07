@@ -1,6 +1,6 @@
 ---
 title: "A Perspective on Humans on Mars, the NASA Psyche Mission, and the Pursuit of Space Exploration with Dr. Lindy Elkins-Tanton"
-excerpt: "What we have to look forward to with human exploration on Mars, the NASA Psyche mission, and what the pursuit of space exploration means for us. (Image credit: Alan Toth, UC Berkeley)<br/><img src='/images/NASA Psyche.png'>"
+excerpt: "What we have to look forward to with human exploration on Mars, the NASA Psyche mission, and what the pursuit of space exploration means for us. (Image credit: NASA)<br/><img src='/images/NASA Psyche.png'>"
 collection: projects
 category: Berkeley Scientific Journal
 ---

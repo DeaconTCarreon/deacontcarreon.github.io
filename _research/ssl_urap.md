@@ -8,6 +8,8 @@ venue: "SSL"
 location: "UC Berkeley"
 ---
 
+<img src="/images/MAVEN Spacecraft.jpg" alt="IDL Tplot" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; border-radius: 10px; margin-bottom: 20px;">
+
 The MAVEN spacecraft orbited Mars for 12 years from 2013 to 2025 with a mission to understand the atmospheric evolution of the planet. In December 2025, Contact was permanently lost with the spacecraft, however we stil have all of its data to analyze.
 
 I joined this research project in Spring 2026, and I have learned how to operate IDL out of MobaXTerm, which has included tplot. Tplot is a system that allows graphing many variables from the spacecraft on one plot, and it can let you zoom in and do various actions.
