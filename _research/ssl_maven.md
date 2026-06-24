@@ -16,7 +16,7 @@ I joined this research project in Spring 2026, and I have learned how to operate
 
 Certain actions I've learned allows zooming in, being able to obtain certain values, spliting data into individual components, removing plots, and downloading data as txt files (can later be converted into csv). One way I've utilized these commands is by working to plot count rates alongside with the tangent altitude of the MAVEN spacecraft from Scorpius X-1, an extra-solar X-ray source.
 
-### Scorpius X-1
+## Scorpius X-1
 
 <img src="/images/4_3_26 Graph.png" alt="IDL Tplot" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; border-radius: 10px; margin-bottom: 20px;">
 
@@ -30,7 +30,7 @@ After this, I perfomed a command that downloaded the graphed data into txt files
 
 <img src="/images/Ultimate Tanalt Graph.png" alt="Jupyter Plot" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; border-radius: 10px; margin-bottom: 20px;">
 
-### GRB 221009A
+## GRB 221009A
 
 The brightest ever-observed gamma-ray burst (GRB) occured on October 9, 2022, and is nicknamed the BOAT (Brightest Of All Time). It is at a redshift of z=0.151, and a wide array of spacecraft were able to detect the gamma ray flashes, including the MAVEN SEP instruments.
 
