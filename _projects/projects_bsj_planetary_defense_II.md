@@ -7,7 +7,6 @@ category: Berkeley Scientific Journal
 
 <img src="/images/ATV-1 Reentry.png" alt="ATV-1 Reentry" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; border-radius: 10px; margin-bottom: 20px;">
 
-
 There are several potential problems that can arise with the growing overabundance of satellite networks around Earth. However the impacts on the atmosphere from satellites completely burning up, and releasing their metals and creating alumina and aerosols, is unknown. These research problems should be solved before they become increasingly apparent from the increasing influx of satellites.
 
 [Download Blog](https://deacontcarreon.github.io/files/Planetary Defense II.pdf)
