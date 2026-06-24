@@ -5,7 +5,7 @@ collection: projects
 category: Berkeley Scientific Journal
 ---
 
-<img src='/images/DART.png' alt="DART" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; border-radius: 10px; margin-bottom: 20px;'>
+<img src="/images/DART.png" alt="DART" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; border-radius: 10px; margin-bottom: 20px;">
 
 The history of asteroid impacts both within and before recorded history, and the importance of planetary defense. This defense is being achieved with missions that work to enhance planetary defense, such as NASA’s and the ESA’s asteroid trackers, and the 2022 NASA DART Mission. However, the asteroid 2024 YR4 could impact the Moon on 12/22/2032 with a 4% chance, but it is currently out of our view until 2028.
 
