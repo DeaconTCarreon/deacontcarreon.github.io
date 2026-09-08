@@ -1,6 +1,6 @@
 ---
 title: "The MAVEN Solar Energetic Particle Instrument Investigation"
-excerpt: "(Spring 2026-Present). An ongoing URAP project I am undertaking with Ali Rahmati at the Space Sciences Laboratory in UC Berkeley that analyzes data from the MAVEN Spacecraft's SEP instruments. My studies include extrasolar X-rays from Scorpius X-1, an accreting Neutron Star, and predicting the incident flux from the brightest gamma-ray ever observed. (Image Credit: NASA)<br/><img src='/images/MAVEN Spacecraft.jpg'>"
+excerpt: "(Spring 2026-Summer 2026). An ongoing URAP project I am undertaking with Ali Rahmati at the Space Sciences Laboratory in UC Berkeley that analyzes data from the MAVEN Spacecraft's SEP instruments. My studies include extrasolar X-rays from Scorpius X-1, an accreting Neutron Star, and predicting the incident flux from the brightest gamma-ray ever observed. (Image Credit: NASA)<br/><img src='/images/MAVEN Spacecraft.jpg'>"
 collection: research
 type: "research"
 permalink: /research/ssl-maven
