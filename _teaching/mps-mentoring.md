@@ -7,4 +7,4 @@ venue: "MPS Scholars"
 location: "UC Berkeley"
 ---
 
-Have mentored two first-year students during the 2025-2026 school year, and ten incoming students during summer 2026. Helping to share the resources and knowledge that they need to succeed, and how to look for research, internships, and career advice.
+Currently mentoring one first year undergraduate. Have mentored two first-year students during the 2025-2026 school year, and ten incoming students during summer 2026. Helping to share the resources and knowledge that they need to succeed, and how to look for research, internships, and career advice.

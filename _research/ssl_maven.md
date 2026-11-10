@@ -1,6 +1,6 @@
 ---
 title: "The MAVEN Solar Energetic Particle Instrument Investigation"
-excerpt: "(Spring 2026-Summer 2026). An ongoing URAP project I am undertaking with Ali Rahmati at the Space Sciences Laboratory in UC Berkeley that analyzes data from the MAVEN Spacecraft's SEP instruments. My studies include extrasolar X-rays from Scorpius X-1, an accreting Neutron Star, and predicting the incident flux from the brightest gamma-ray ever observed. (Image Credit: NASA)<br/><img src='/images/MAVEN Spacecraft.jpg'>"
+excerpt: "(Spring 2026-Summer 2026). A URAP project I undertook with Ali Rahmati at the Space Sciences Laboratory in UC Berkeley that analyzed data from the MAVEN Spacecraft's SEP instruments. My studies included extrasolar X-rays from Scorpius X-1, an accreting Neutron Star, and predicting the incident flux from the brightest gamma-ray ever observed. (Image Credit: NASA)<br/><img src='/images/MAVEN Spacecraft.jpg'>"
 collection: research
 type: "research"
 permalink: /research/ssl-maven
@@ -45,7 +45,3 @@ The ultimate goal of this project is to predict the gamma ray flux that SEP dete
 The solution is to use Geant4 simulation data that models gamma ray photons interacting with the SEP instrument. By using data from Patrick A Dunn's simulations at SSL, I was able to create response matrices that plotted the incident and deposited energies of each photon. The graph below shows the numpy response matrix of each detector from one simulation.
 
 <img src="/images/Seed 03 Response Matrix.png" alt="Jupyter Plot" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; border-radius: 10px; margin-bottom: 20px;">
-
-Next, I downloaded the spectra data that observed the GRB from IDL, and formatted them to be multiplied by the response matrices from each simulation to obtain a predicted incident flux. As of the writing of this passage, the representation of these incident fluxes are still in progress.
-
-<!-- I am proud to say that I will be continuing this work, headed into the summer, as I plan to analyze data further to study pickup ions and gamma ray bursts with the SEP instruments. -->
